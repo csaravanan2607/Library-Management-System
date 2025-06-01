@@ -1,8 +1,4 @@
 # Library-Management-System
-### Name : Saravanan C
-### Reg No: 212222110041
-### Date: 12/3/25
-
 ## AIM:
 To develop the Library Management System using Star UML
 
