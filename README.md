@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212222110041
+# Name: Saravanan C
+# Date: 12/3/25
 
 
 # AIM:
@@ -22,6 +22,7 @@ To develop the Library Management System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+![377744783-0eb4cdde-fa80-48cf-b67a-957f2e906341](https://github.com/user-attachments/assets/9fac13a7-04a3-4b24-8c84-1a510940c502)
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -45,6 +46,7 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+![377744874-c72420c7-3fa5-454c-b8da-17a69ef43169](https://github.com/user-attachments/assets/10139e68-2277-45db-8493-d6393fa77cb1)
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -61,6 +63,7 @@ Create detailed charts that…
 
 
 # COMMUNICTION DIAGRAM:
+![377745262-39b55dc3-5976-45ee-b50c-d5b80036b433](https://github.com/user-attachments/assets/0e9c4b2f-446e-48af-98e6-34e1c56edd0a)
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -70,6 +73,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+![377745217-e77a4c09-60d0-4c6f-8947-4c4ce944ab99](https://github.com/user-attachments/assets/c24ab8af-5676-426e-8b01-2c024db47dfd)
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -85,6 +89,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 # ACTIVITY DIAGRAM:
+![377745524-c25295ff-90df-44ec-ba4a-49cdc635fcc1](https://github.com/user-attachments/assets/0f2b05d5-e543-4584-a62d-484cf0dd022a)
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
@@ -101,6 +106,7 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+![377744966-d2da8f84-9007-4a08-8728-7355567a401f](https://github.com/user-attachments/assets/5b0368bc-47ba-486f-999f-7165cd1633f0)
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
